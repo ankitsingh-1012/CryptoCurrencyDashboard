@@ -45,7 +45,7 @@ export default function signUpPage() {
                     </div>
                     <div className="pt-6 w-full flex space-x-2 justify-between">
                         <button onClick={onRegister} className="h-10 w-5/12 border-2 border-orange-700 rounded-lg text-white font-semibold">Register</button>
-                        <Link href="home" className="h-10 w-5/12 bg-btn rounded-lg text-white text-center items-center py-2 font-semibold">Login</Link>
+                        <Link href="/" className="h-10 w-5/12 bg-btn rounded-lg text-white text-center items-center py-2 font-semibold">Login</Link>
                     </div>
                 </div>
             </div>
